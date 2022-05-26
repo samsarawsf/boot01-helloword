@@ -11,5 +11,6 @@ public class test {
         System.out.println("hello4");
         System.out.println("masterHello4");
         System.out.println("hotFixHello5");
+        System.out.println("pushTest");
     }
 }
